@@ -75,7 +75,7 @@ ou no sítio eletrônico do [SISPATRI](https://www.sispatri.mg.gov.br/PaginasPub
 
 
 
-## PROCESSO ADMINISTRATIVO DISCIPLINAR - PAD (falta revisão da correição)
+## PROCESSO ADMINISTRATIVO DISCIPLINAR - PAD
 
 ### Como faço para ter acesso a cópia dos autos de um Processo Administrativo Disciplinar?
 Envie um e-mail para: atende.correicao@cge.mg.gov.br, informe os dados do processo e os seus dados.
@@ -126,7 +126,7 @@ A Ouvidoria é o canal de interlocução entre a sociedade e o Governo. Ela auxi
 A OGE atua com independência, não é subordinada a nenhum dos poderes do Estado ou a seus membros. A OGE trabalha com imparcialidade, agilidade e transparência.
 
 
-### Como faço para acompanhar uma denúncia? (texto revisado pela ASSCOM)
+### Como faço para acompanhar uma denúncia? 
 Ao entrar no site da [Ouvidoria Geral](www.ouvidoriageral.mg.gov.br) você vai encontrar ícones das ouvidorias temáticas. 
 
 Clique no ícone relativo ao assunto relacionado a sua denúncia. 
@@ -142,13 +142,9 @@ Importante lembrar que sua denúncia pode ser anônima!
 
 ## CERTIDÃO NEGATIVA DE ANTECEDENTES FUNCIONAIS 
 ### Como faço para solicitar uma Certidão Negativa de Antecedentes Funcionais?
-Envie um e-mail para: atende.correicao@cge.mg.gov.br.
+Envie um e-mail para: atende.correicao@cge.mg.gov.br, solicitando a Certidão Negativa de Antecedentes Funcionais.
 
-Informe no e-mail os seguintes dados para emissão da certidão:
-- Nome Completo
-- CPF
-- MASP
-
+Ao receber o e-mail, a equipe da Corregedoria-Geral enviará o link de acesso e o passo a passo para a emissão da certidão.
 
 
 ## CONCURSO PÚBLICO 
