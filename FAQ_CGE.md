@@ -143,12 +143,3 @@ Importante lembrar que sua denúncia pode ser anônima!
 Envie um e-mail para: atende.correicao@cge.mg.gov.br, solicitando a Certidão Negativa de Antecedentes Funcionais.
 
 Ao receber o e-mail, a equipe da Corregedoria-Geral enviará o link de acesso e o passo a passo para a emissão da certidão.
-
-
-## CONCURSO PÚBLICO 
-
-### Quando será realizado Concurso Público para a carreira de Auditor Interno? (texto revisado pela ASSCOM)
-
-Não há, no momento, qualquer previsão para realização de Concurso Público para a carreira de Auditor Interno do Estado de Minas Gerais.
-
-Informamos ainda que não existe uma periodicidade predefinida para a realização de concursos públicos no estado, visto que se pautam pela necessidade e conveniência da administração em fazer novas contratações, observados os limites impostos pela Lei de Responsabilidade de Fiscal.
