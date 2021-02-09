@@ -5,12 +5,14 @@ mask_cpf <- function(x) {
 }
 
 mask_rg <- function(x) {
+  # https://guilhermesteves.dev/tutoriais/regex-uteis-para-o-seu-dia-a-dia/
   regex <- " (\\d{1,2}).?\\d{3}.?(\\d{3})-?(\\d{1}|X|x)?"
   #x <- paste("RG MG 10.002.124 ou ainda 10002124")
   stringr::str_replace_all(x, regex, "REDACTED")
 }
 
 mask_tel <- function(x) {
+  # https://gist.github.com/boliveirasilva/c927811ff4a7d43a0e0c
   regex <- " (?:(?:\\+|00)?(55)\\s?)?(?:\\(?([1-9][0-9])\\)?\\s?)?(?:((?:9\\d|[2-9])\\d{3})\\-?(\\d{4}))"
   stringr::str_replace_all(x, regex, "REDACTED")
 }
